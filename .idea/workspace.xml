@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebd47963-31df-43f4-9345-df14d828fdf8" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/kc_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/kc_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rl_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/rl_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN_agent_kc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RL_project.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/DQN_1/events.out.tfevents.1654335872.DESKTOP-IBEAI6P.22960.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/DQN_2/events.out.tfevents.1654344868.DESKTOP-IBEAI6P.15180.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_1/events.out.tfevents.1653398087.DESKTOP-IBEAI6P.10300.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_10/events.out.tfevents.1654335803.DESKTOP-IBEAI6P.22960.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_11/events.out.tfevents.1654344752.DESKTOP-IBEAI6P.15180.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_12/events.out.tfevents.1654344809.DESKTOP-IBEAI6P.15180.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_13/events.out.tfevents.1659435422.DESKTOP-IBEAI6P.20316.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_14/events.out.tfevents.1659440453.DESKTOP-IBEAI6P.29092.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_15/events.out.tfevents.1659440464.DESKTOP-IBEAI6P.14692.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_2/events.out.tfevents.1653398630.DESKTOP-IBEAI6P.18996.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_3/events.out.tfevents.1653402906.DESKTOP-IBEAI6P.4492.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_4/events.out.tfevents.1653403041.DESKTOP-IBEAI6P.7324.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_5/events.out.tfevents.1653920697.DESKTOP-IBEAI6P.24556.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_6/events.out.tfevents.1653920947.DESKTOP-IBEAI6P.7268.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_7/events.out.tfevents.1653921692.DESKTOP-IBEAI6P.14148.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_8/events.out.tfevents.1653921752.DESKTOP-IBEAI6P.14148.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Logs/PPO_9/events.out.tfevents.1654335736.DESKTOP-IBEAI6P.22960.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Saved Models/DQN_model.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Saved Models/PPO_Driving_model2M.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Saved Models/PPO_Driving_model428k.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Saved Models/PPO_Driving_model50k.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Saved Models/PPO_Model_Cartpole.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Saved Models/best_model.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breakout_Project.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kc_dqn_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kc_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rl_learning_ytube.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rl_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_kc_cartpole.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660578232268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1661863909271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661863909271</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
